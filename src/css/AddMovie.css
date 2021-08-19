@@ -1,0 +1,72 @@
+#myBtn {
+  background-color: #6ea9ec;
+ border-style: solid  white;
+
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 300px;
+  width: 400px;
+  margin: 0 35%;
+}
+.modal1 {
+  
+  position:relative;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  overflow: scroll;
+  background-color:white; 
+  background-color: rgba(230, 222, 222, 0.952);
+  
+}
+
+.modal-content {
+  background-color: white;
+  margin: 0% auto;
+  padding: 20px;
+  border-style: hidden;
+  width: 100%;
+}
+.modal-body {
+  color:white;
+background-color: #fff;
+}
+.add-movie{
+  background-color: #fff;
+}
+.title {
+  text-align: center;
+  padding:0 10px;
+  margin-left: 30px;
+}
+.label{
+  font-weight: 600;
+  font-size: 20px;
+  background-color: #fff;
+  color: black;
+}
+.input {
+  background-color: #fff;
+  color: black;
+}
+
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color:white;
+  text-decoration: none;
+  cursor: pointer;
+}
+.footer {
+  background-color: #fff;
+}

@@ -1,0 +1,12 @@
+.search {
+    float: center;
+    background-color: #fff;
+    width: 500px;
+    margin:50px 10px 10px 100px;
+    height: 50px;
+    border-radius: 10px;
+}
+ .rating {
+     margin-left: 200px;
+ }
+ 
